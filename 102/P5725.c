@@ -18,7 +18,7 @@ int main(void)
         }
     }
 
-    printf("\n");
+    printf("\n\n");
 
     int tag = 1;
     for(int i = 1;i<=n;i++)
